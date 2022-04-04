@@ -15,8 +15,8 @@ cd ~/Desktop/daily-briefings-py/
 Use Anaconda to create and activate a new virtual environment, perhaps called "briefings-env":
 
 ```sh
-conda create -n briefings-env python=3.8
-conda activate briefings-env
+conda create -n briefing-env python=3.8
+conda activate briefing-env
 ```
 
 Then, within an active virtual environment, install package dependencies:
