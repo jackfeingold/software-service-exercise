@@ -38,4 +38,4 @@ def hello_world():
     
     message = f"Hello, {name}!"
     #return message
-    return render_template("hello.html", message=message)
+    return render_template("hello.html", message=message, other="Hi There")
