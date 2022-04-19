@@ -73,6 +73,16 @@ python -m app.daily_briefing
 APP_ENV="production" COUNTRY_CODE="US" ZIP_CODE="20057" python -m app.daily_briefing
 ```
 
+## Website Usage
+
+To visit the website, visit:
+
+https://pure-journey-38022.herokuapp.com/
+
+To get the weather, visit the weather form page from the nav bar and enter your zip code.
+
+You will see weather for any zip code in the US.
+
 
 ## Testing
 
